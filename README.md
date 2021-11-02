@@ -14,6 +14,7 @@
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=LINK_GIT)](https://github.com/Demetrrius/projeto-sds5/search?l=java)
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=LINK_GIT)](https://github.com/Demetrrius/projeto-sds5/search?l=css) 
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white=&LINK_GIT)](https://github.com/Demetrrius/projeto-sds5/search?l=html)
+[![HTML Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&LINK_GIT)](https://github.com/Demetrrius/projeto-sds5/search?l=typescript)
  
 # Blocos
 [![Demetrrius GitHub stats](https://github-readme-stats.vercel.app/api?username=demetrrius)](https://github.com/demetrris/github-readme-stats)
